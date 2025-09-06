@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact xmlns:c="http://schemas.microsoft.com/Contact"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P" c:Version="1">
+	<c:Gender>Unspecified</c:Gender>
+	<c:CreationDate>2009-04-01T14:20:31Z</c:CreationDate>
+	<c:Extended xsi:nil="true" />
+	<c:ContactIDCollection>
+		<c:ContactID c:ElementID="f38b1a9b-08b1-409a-b8e3-e0b9ba4be1c3">
+			<c:Value>5e26d97a-572b-4aea-8ee2-d225070acba0</c:Value>
+		</c:ContactID>
+	</c:ContactIDCollection>
+	<c:EmailAddressCollection>
+		<c:EmailAddress c:ElementID="ee53fca8-a876-48fb-ac92-ce30a3ce0b65">
+			<c:Type>SMTP</c:Type>
+			<c:Address>forrestgump@forrestgump.com</c:Address>
+			<c:LabelCollection>
+				<c:Label>Preferred</c:Label>
+			</c:LabelCollection>
+		</c:EmailAddress>
+		<c:EmailAddress c:ElementID="0b86ff5c-4201-460b-9eae-bc5d79dfe66d"
+			xsi:nil="true" />
+	</c:EmailAddressCollection>
+	<c:NameCollection>
+		<c:Name c:ElementID="3aec1c79-ea8d-4ce4-b204-94246502e9d0">
+			<c:FormattedName>Gump, Forrest</c:FormattedName>
+			<c:FamilyName>Gump</c:FamilyName>
+			<c:GivenName>Forrest</c:GivenName>
+		</c:Name>
+	</c:NameCollection>
+	<c:PhysicalAddressCollection>
+		<c:PhysicalAddress c:ElementID="d63a50ea-bf80-45b1-a293-73345b58adcd">
+			<c:Country>United States of America</c:Country>
+			<c:PostalCode>30314</c:PostalCode>
+			<c:Region>LA</c:Region>
+			<c:Locality>Baytown</c:Locality>
+			<c:Street>100 Waters Edge</c:Street>
+			<c:LabelCollection>
+				<c:Label>Business</c:Label>
+			</c:LabelCollection>
+		</c:PhysicalAddress>
+		<c:PhysicalAddress c:ElementID="c3c677a9-5b9d-40f5-9de2-9ad83b4ef646">
+			<c:Country>United States of America</c:Country>
+			<c:PostalCode>30314</c:PostalCode>
+			<c:Region>LA</c:Region>
+			<c:Locality>Baytown</c:Locality>
+			<c:Street>102 Waters Edge</c:Street>
+			<c:LabelCollection>
+				<c:Label>Personal</c:Label>
+			</c:LabelCollection>
+		</c:PhysicalAddress>
+	</c:PhysicalAddressCollection>
+	<c:PhoneNumberCollection>
+		<c:PhoneNumber c:ElementID="1031f375-5317-4b15-af90-3e5b65437596">
+			<c:Number>(111) 555-1212</c:Number>
+			<c:LabelCollection>
+				<c:Label>Voice</c:Label>
+				<c:Label>Business</c:Label>
+			</c:LabelCollection>
+		</c:PhoneNumber>
+		<c:PhoneNumber c:ElementID="f939f8df-87e3-487d-9382-fde63ac3d13a">
+			<c:Number>(111) 555-1215</c:Number>
+			<c:LabelCollection>
+				<c:Label>Voice</c:Label>
+				<c:Label>Personal</c:Label>
+			</c:LabelCollection>
+		</c:PhoneNumber>
+	</c:PhoneNumberCollection>
+	<c:UrlCollection>
+		<c:Url c:ElementID="10791e0a-02a1-4c7a-8b13-707cee38dafe">
+			<c:Value>http://www.bubbagumpshrimp.com</c:Value>
+			<c:LabelCollection>
+				<c:Label>Business</c:Label>
+			</c:LabelCollection>
+		</c:Url>
+		<c:Url c:ElementID="06ed7300-0d3e-4bf0-8dc5-f3e06248d896">
+			<c:Value>http://www.forrestgump.com</c:Value>
+			<c:LabelCollection>
+				<c:Label>Personal</c:Label>
+			</c:LabelCollection>
+		</c:Url>
+	</c:UrlCollection>
+	<c:PositionCollection>
+		<c:Position c:ElementID="f192d6ef-31bd-4e4e-910e-77aa47734698">
+			<c:Department>Shrimp Department</c:Department>
+			<c:JobTitle>Shrimp Man</c:JobTitle>
+			<c:Company>Bubba Gump Shrimp Co.</c:Company>
+			<c:LabelCollection>
+				<c:Label>Business</c:Label>
+			</c:LabelCollection>
+		</c:Position>
+	</c:PositionCollection>
+	<c:PhotoCollection>
+		<c:Photo c:ElementID="eb855b4d-e556-4dbb-ad00-527021e761a9">
+			<c:Value c:ContentType="image/jpeg">
+			/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQ
+			YGBcU</c:Value>
+			<c:LabelCollection>
+				<c:Label>UserTile</c:Label>
+			</c:LabelCollection>
+		</c:Photo>
+	</c:PhotoCollection>
+</c:contact>

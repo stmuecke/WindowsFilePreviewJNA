@@ -1,0 +1,93 @@
+
+Affinity-Designer.afdesign
+	Source: (own creation)
+	License: MIT-0
+
+Animated-GIF.gif
+	Source: https://giphy.com/gifs/iqHqGu1Dy5uWA
+	Source: https://okkult.it/post/79562669212/meaning-of-pi
+	License: Public Domain
+	
+Animated-PNG.png
+	Source: https://en.wikipedia.org/wiki/File:Animated_PNG_example_bouncing_beach_ball.png
+	License: Public Domain
+	
+Animated-WebP.webp
+	Source: https://commons.wikimedia.org/wiki/File:Compound_Chinese_character_demonstration_with_%E5%A5%BD.webp
+	Source: https://upload.wikimedia.org/wikipedia/commons/0/0b/Compound_Chinese_character_demonstration_with_%E5%A5%BD.webp
+	License: Creative Commons CC0 1.0 Universal Public Domain Dedication
+
+Contact.contact
+	Source: https://microsoft.fandom.com/wiki/Windows_Contacts
+	License CC-BY-SA
+
+Document-ODT.odt
+	Derived from: https://file-examples.com/storage/fef6248bef689f7bb9c274f/2017/10/file-sample_100kB.odt
+	License: "All files are free to download and use."
+
+Document-RTF.rtf
+	Derived from: https://file-examples.com/storage/fef6248bef689f7bb9c274f/2019/09/file-sample_100kB.rtf
+	License: "All files are free to download and use."
+
+Font-Bitmap.fon  
+	Source: https://www.chiark.greenend.org.uk/%7Esgtatham/fonts/tektite.fon
+	License: (unspecified)
+	
+Font-TrueType.ttf
+	Source: http://www.publicdomainfiles.com/show_file.php?id=13487095304649
+	License: Public Domain
+
+HTML-Acid1.html
+	Source: https://www.w3.org/Style/CSS/Test/CSS1/current/test5526c.htm
+	License: https://www.w3.org/copyright/3-clause-bsd-license-2008/
+
+Image-JPEG-cat.jpg
+	Derived from: https://commons.wikimedia.org/wiki/File:Tuxedo_cat,_front_view.png
+	License: CC0
+	
+Image-PNG-large.png
+	Source: https://commons.wikimedia.org/wiki/File:16777216colors.png
+	Source: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/16777216colors.png/2048px-16777216colors.png
+	License: Creative Commons Attribution-Share Alike 2.5 Generic
+
+Image-PNG-transparency.png
+	Source: https://commons.wikimedia.org/wiki/File:PNG_transparency_demonstration_1.png
+	License: Creative Commons Attribution-Share Alike 3.0 Unported
+
+Image-SVG-Tiger.svg
+	Source: https://commons.wikimedia.org/wiki/File:Ghostscript_Tiger.svg
+	Source: https://upload.wikimedia.org/wikipedia/commons/f/fd/Ghostscript_Tiger.svg
+	License: GNU Affero General Public License
+
+MHTML-simple_test.mht
+	Source: https://github.com/chromium/chromium/blob/main/third_party/blink/renderer/core/testing/data/mhtml/simple_test.mht
+	License: BSD-3-Clause
+
+MS-Excel.xlsx
+	Source: https://file-examples.com/storage/fef6248bef689f7bb9c274f/2017/02/file_example_XLSX_50.xlsx
+	License: "All files are free to download and use."
+
+MS-PowerPoint.pptx
+	Source: (own creation)
+	License: MIT-0
+
+MS-Outlook.msg
+	Source: (own creation)
+	License: MIT-0
+
+MS-Visio.vsd
+	Source: https://github.com/apache/poi/blob/trunk/test-data/diagram/visio_with_embeded.vsd
+	License: Apache License, Version 2.0
+
+MS-Word.docx
+	Derived from: https://file-examples.com/storage/fef6248bef689f7bb9c274f/2017/02/file-sample_100kB.docx
+	License: "All files are free to download and use."
+
+PDF-Patent.pdf
+	Source: https://upload.wikimedia.org/wikipedia/commons/a/ad/US_Patent_600001_%28Bicycle%29.pdf
+	License: Public Domain
+	
+STL-cube.stl
+	Source: https://commons.wikimedia.org/wiki/File:3D_model_of_a_Cube.stl
+	Source: https://upload.wikimedia.org/wikipedia/commons/3/36/3D_model_of_a_Cube.stl
+	License: Public Domain
